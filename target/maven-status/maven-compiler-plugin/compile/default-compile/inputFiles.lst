@@ -1,0 +1,6 @@
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/PortalApplication.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/controller/InicioController.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/controller/ProductoController.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/model/Producto.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/repository/ProductoRepository.java
+/home/codespace/andesfresh14/src/main/java/com/andesfresh/portal/service/ProductoService.java
