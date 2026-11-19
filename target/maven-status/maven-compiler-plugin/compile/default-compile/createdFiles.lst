@@ -1,6 +1,8 @@
 com/andesfresh/portal/repository/ProductoRepository.class
 com/andesfresh/portal/controller/ProductoController.class
-com/andesfresh/portal/service/ProductoService.class
 com/andesfresh/portal/model/Producto.class
-com/andesfresh/portal/PortalApplication.class
 com/andesfresh/portal/controller/InicioController.class
+com/andesfresh/portal/controller/ReporteController.class
+com/andesfresh/portal/service/ProductoService.class
+com/andesfresh/portal/PortalApplication.class
+com/andesfresh/portal/api/ProductoApi.class
