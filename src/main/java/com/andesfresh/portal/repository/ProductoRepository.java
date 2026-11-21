@@ -1,7 +1,7 @@
 package com.andesfresh.portal.repository;
- 
-import com.andesfresh.portal.model.Producto;
+
+import com.andesfresh.portal.model.Empleado;
 import org.springframework.data.jpa.repository.JpaRepository;
- 
-public interface ProductoRepository extends JpaRepository<Producto, Long> {
+
+public interface EmpleadoRepository extends JpaRepository<Empleado, Long> {
 }
