@@ -1,8 +1,15 @@
 com/andesfresh/portal/repository/ProductoRepository.class
 com/andesfresh/portal/controller/ProductoController.class
+com/andesfresh/portal/controller/ConsultaController.class
+com/andesfresh/portal/model/Empleado.class
+com/andesfresh/portal/controller/EmpleadoController.class
 com/andesfresh/portal/model/Producto.class
 com/andesfresh/portal/controller/InicioController.class
 com/andesfresh/portal/controller/ReporteController.class
+com/andesfresh/portal/config/CargaInicial.class
+com/andesfresh/portal/repository/ResumenCategoria.class
 com/andesfresh/portal/service/ProductoService.class
+com/andesfresh/portal/repository/EmpleadoRepository.class
 com/andesfresh/portal/PortalApplication.class
 com/andesfresh/portal/api/ProductoApi.class
+com/andesfresh/portal/service/EmpleadoService.class

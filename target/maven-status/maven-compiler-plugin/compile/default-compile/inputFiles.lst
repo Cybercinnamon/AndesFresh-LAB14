@@ -1,8 +1,15 @@
 /workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/PortalApplication.java
 /workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/api/ProductoApi.java
+/workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/config/CargaInicial.java
+/workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/controller/ConsultaController.java
+/workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/controller/EmpleadoController.java
 /workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/controller/InicioController.java
 /workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/controller/ProductoController.java
 /workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/controller/ReporteController.java
+/workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/model/Empleado.java
 /workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/model/Producto.java
+/workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/repository/EmpleadoRepository.java
 /workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/repository/ProductoRepository.java
+/workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/repository/ResumenCategoria.java
+/workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/service/EmpleadoService.java
 /workspaces/AndesFresh-LAB14/src/main/java/com/andesfresh/portal/service/ProductoService.java
